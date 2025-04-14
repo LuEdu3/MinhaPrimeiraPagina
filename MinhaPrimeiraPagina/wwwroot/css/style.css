@@ -16,6 +16,13 @@ html{
 /* IMAGEM */
 
 .eu_imagem{
-    margin: 1rem 7.5rem;
+    
+    width: 50%;
+    margin: 1rem ;
     border: 3px white dotted;
+}
+
+/* TEXTO FOTO */
+.texto-foto{
+    color: aliceblue;
 }
