@@ -16,13 +16,21 @@ html{
 /* IMAGEM */
 
 .eu_imagem{
-    
+
     width: 50%;
     margin: 1rem ;
     border: 3px white dotted;
 }
+.foto .eu_imagem{
+    width: fit-content; 
+    background-color: white;
+}
 
 /* TEXTO FOTO */
 .texto-foto{
+    width: 600px;
+    margin: 1rem;
+    background-color: white;
     color: aliceblue;
+
 }
