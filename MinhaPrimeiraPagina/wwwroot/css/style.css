@@ -1,0 +1,16 @@
+/* BACKGROUND COLOR */
+
+.bg-light{
+    background-color: black !important;
+}
+html{
+
+    background-color: black;
+}
+
+
+/* IMAGEM */
+
+.eu_imagem{
+    margin: 1rem 7.5rem;
+}
