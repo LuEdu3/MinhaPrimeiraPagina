@@ -13,4 +13,5 @@ html{
 
 .eu_imagem{
     margin: 1rem 7.5rem;
+    border: 3px white dotted;
 }
