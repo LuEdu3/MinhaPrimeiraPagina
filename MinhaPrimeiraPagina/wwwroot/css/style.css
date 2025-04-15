@@ -48,3 +48,13 @@ html{
 .texto-foto{
     border: 3px blue dotted;
 }
+
+/* BOTÃO */
+.botao-azul{
+    display: flex;
+    padding: 10px;
+}
+.btn-info{
+    height: 100px;
+    width: 100px;
+}
