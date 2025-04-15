@@ -18,7 +18,10 @@ html{
 .nome-proprio{
     color: white;
     text-align: center;
-    border-bottom: 1px red dotted;
+}
+
+.texto-nome{
+        border-bottom: 1px red dotted;
 }
 
 /* IMAGEM */
