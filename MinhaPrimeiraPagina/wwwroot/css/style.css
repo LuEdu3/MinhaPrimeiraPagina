@@ -13,6 +13,17 @@ html{
     margin: 5%;
 }  */
 
+/* NOME */
+
+.nome-proprio{
+    color: white;
+    text-align: center;
+}
+
+.texto-nome{
+        border-bottom: 1px red dotted;
+}
+
 /* IMAGEM */
 
 .eu_imagem{
